@@ -11,3 +11,5 @@ def sum_of_digits(number):
 
 num = int(input("Enter an integer: "))
 sum_of_digits(num)
+output:
+Sum of digits is: 10
